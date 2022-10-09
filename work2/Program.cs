@@ -8,4 +8,4 @@ while (N > 0)
    sum = sum + N % 10;
    N = N / 10;
 };
-Console.WriteLine("Сумма чисел: " + sum);
+Console.WriteLine("Сумма цифр в числе: " + sum);
